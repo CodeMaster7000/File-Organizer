@@ -11,4 +11,4 @@ A Python automated script to organize your files for you.
 
 ## Implementation
 
-Run `python3 File_Organizer.py` in a terminal if you have Python 3.
+Start by creating a virtual environment with `python3 -m venv app_env`, then run the code.
